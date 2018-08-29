@@ -1,2 +1,2 @@
-# prosemirror
-ProseMirror text editor - repository used for building an unofficial monolithic package.
+
+Unofficial monolithic package for ProseMirror text editor.

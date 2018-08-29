@@ -1,0 +1,10 @@
+dist
+node_modules
+prosemirror.sublime-workspace
+npm-debug.log
+package-lock.json
+
+# Dot files
+.*
+!.gitignore
+!.npmignore
