@@ -1,6 +1,6 @@
 {
   "name": "@jarek-foksa/prosemirror",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Unofficial monolithic package for ProseMirror text editor.",
   "private": false,
   "author": "Jarosław Foksa",
@@ -23,6 +23,7 @@
     "prosemirror-history": "^1.0.2",
     "prosemirror-tables": "^0.7.6",
     "prosemirror-inputrules": "^1.0.1",
+    "prosemirror-utils": "^0.6.5",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.0.9"
   }

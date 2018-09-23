@@ -13,6 +13,7 @@ import * as Keymap from "../node_modules/prosemirror-keymap";
 import * as History from "../node_modules/prosemirror-history";
 import * as Tables from "../node_modules/prosemirror-tables";
 import * as InputRules from "../node_modules/prosemirror-inputrules";
+import * as Utils from "../node_modules/prosemirror-utils";
 
 window.ProseMirror = {
   View,
@@ -28,5 +29,6 @@ window.ProseMirror = {
   Keymap,
   History,
   Tables,
-  InputRules
+  InputRules,
+  Utils
 };
